@@ -1,0 +1,8 @@
+name: milofirethorns
+version: ${project.version}
+main: me.miloapplechief.milofirethorns.Milofirethorns
+api-version: 1.13
+authors: [MiloAppleChief]
+description: A plugin that adds the custom enchant 'fire thorns'
+commands:
+  Firethorns:
